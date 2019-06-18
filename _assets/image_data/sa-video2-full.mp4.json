@@ -1,0 +1,26 @@
+{
+  "name": "sa-video2-full",
+  "content_type": "video/mp4",
+  "date_added": "2019-06-18-160506",
+  "audio": {
+    "codec": "aac",
+    "bit_rate": "317375",
+    "frequency": 48000,
+    "channels": 2,
+    "channel_layout": "stereo"
+  },
+  "video": {
+    "pix_format": "yuv420p",
+    "codec": "h264",
+    "level": 41,
+    "profile": "Main",
+    "bit_rate": "10496380"
+  },
+  "url": "//res.cloudinary.com/traveltripperweb/video/upload/c_limit,h_2500,vc_auto,w_2500/v1560888230/sswpax5i1gs88qye55bk.mp4",
+  "bit_rate": 10810184,
+  "frame_rate": 23.976023976023978,
+  "duration": 15.26525,
+  "format": "mp4",
+  "resource_type": "video",
+  "size": 20697899
+}
