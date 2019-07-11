@@ -34,6 +34,9 @@
         "caption": "",
         "description": ""
       }
+    },
+    "col1_html": {
+      "content": "<p>Test</p>\n<p>Content</p>\n<p>Goes</p>\n<p>Here</p>\n<p>To Make i</p>\n<p>t fit</p>\n<p>&nbsp;</p>"
     }
   }
 ]
