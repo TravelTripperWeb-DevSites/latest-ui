@@ -33,7 +33,10 @@
         "alt": "xlarge-photo",
         "caption": "",
         "description": ""
-      }
+      },
+      "full_bleed": true,
+      "mask_color": "#ffffff",
+      "mask_opacity": ".5"
     },
     "col1_html": {
       "content": "<p>Test</p>\n<p>Content</p>\n<p>Goes</p>\n<p>Here</p>\n<p>To Make i</p>\n<p>t fit</p>\n<p>&nbsp;</p>"
