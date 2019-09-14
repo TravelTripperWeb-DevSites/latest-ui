@@ -88,6 +88,37 @@
         "height": 1421
       },
       "caption": "bowl"
+    },
+    {
+      "name": "SampleOGVVideo copy",
+      "content_type": "video/ogg",
+      "date_added": "2019-09-13-220720",
+      "audio": {
+        "codec": "vorbis",
+        "bit_rate": "499821",
+        "frequency": 48000,
+        "channels": 2,
+        "channel_layout": "stereo"
+      },
+      "video": {
+        "pix_format": "yuv420p",
+        "codec": "theora",
+        "level": -99,
+        "dar": "4:3"
+      },
+      "url": "//res.cloudinary.com/traveltripperweb/video/upload/c_limit,h_2500,vc_auto,w_2500/v1568426847/dgv1yrsbgwpnqdhsekkd.ogv",
+      "bit_rate": 7587991,
+      "frame_rate": 25,
+      "duration": 4.96,
+      "format": "ogv",
+      "url_raw": "//res.cloudinary.com/traveltripperweb/video/upload/v1568426847/dgv1yrsbgwpnqdhsekkd.ogv",
+      "resource_type": "video",
+      "size": 4704555,
+      "git_file_name": "_assets/image_data/SampleOGVVideo-copy.OGV.json",
+      "path": "//res.cloudinary.com/traveltripperweb/video/upload/c_limit,h_2500,vc_auto,w_2500/v1568426847/dgv1yrsbgwpnqdhsekkd.ogv",
+      "file_size": null,
+      "alt": "SampleOGVVideo copy",
+      "caption": "OGV Video"
     }
   ],
   "description": "",
