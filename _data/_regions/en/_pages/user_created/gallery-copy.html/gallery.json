@@ -1,0 +1,17 @@
+[
+  {
+    "advanced_options": {
+    },
+    "galleries": [
+      {
+        "gallery": "test",
+        "label": "Test"
+      },
+      {
+        "label": "Two",
+        "gallery": "two"
+      }
+    ],
+    "_template": "galleries"
+  }
+]
