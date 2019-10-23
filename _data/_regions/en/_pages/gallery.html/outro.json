@@ -1,7 +1,7 @@
 [
   {
     "_template": "html",
-    "content": "<p>Here's my basic HTML area</p>"
+    "content": "<p style=\"text-align: center;\">Here's my basic HTML area</p>"
   },
   {
     "_template": "on_page_gallery",
