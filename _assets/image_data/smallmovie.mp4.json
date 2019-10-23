@@ -1,0 +1,27 @@
+{
+  "name": "smallmovie",
+  "content_type": "video/mp4",
+  "date_added": "2019-06-18-143506",
+  "audio": {
+    "codec": "aac",
+    "bit_rate": "163279",
+    "frequency": 48000,
+    "channels": 2,
+    "channel_layout": "stereo"
+  },
+  "video": {
+    "pix_format": "yuv420p",
+    "codec": "h264",
+    "level": 40,
+    "profile": "Main",
+    "bit_rate": "2091302",
+    "dar": "300:157"
+  },
+  "url": "//res.cloudinary.com/traveltripperweb/video/upload/vc_auto/v1560882828/ty7qdmb0jxfvb2zscq4i.mp4",
+  "bit_rate": 2259631,
+  "frame_rate": 23.976023976023978,
+  "duration": 18.351656,
+  "format": "mp4",
+  "resource_type": "video",
+  "size": 5188115
+}
