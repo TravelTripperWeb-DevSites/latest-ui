@@ -1,5 +1,9 @@
 [
   {
+    "_template": "html",
+    "content": "<p>Here's my basic HTML area</p>"
+  },
+  {
     "_template": "on_page_gallery",
     "advanced_options": {
     },
@@ -94,9 +98,5 @@
         ]
       }
     ]
-  },
-  {
-    "_template": "html",
-    "content": "<p>Here's my basic HTML area</p>"
   }
 ]
